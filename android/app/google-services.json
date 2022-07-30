@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314011544905",
+    "project_id": "loginui-2f706",
+    "storage_bucket": "loginui-2f706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314011544905:android:fd50608ca4b2fc39ebfe98",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314011544905-kfe9mldb8n3kjdqcj044lt6juorlsnm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-OaOFS0tshnI0JD0183UC52c1uZGjgcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314011544905-kfe9mldb8n3kjdqcj044lt6juorlsnm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
