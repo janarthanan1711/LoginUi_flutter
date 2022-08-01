@@ -15,6 +15,7 @@ class loginScreen extends StatefulWidget {
   State<loginScreen> createState() => _loginScreenState();
 }
 
+// ignore: camel_case_types
 class _loginScreenState extends State<loginScreen> {
   GlobalKey<FormState> formKey = GlobalKey<FormState>();
   final _name = TextEditingController();
